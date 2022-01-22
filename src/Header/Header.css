@@ -1,0 +1,67 @@
+.conteinerHeader {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.header {
+    width: 768px;
+    height: 80px;
+    border-bottom: 1px solid black ;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo a{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(83, 79, 79);
+    margin: 13px 0 0 30px;
+    display: flex;
+    text-decoration: none;
+}
+
+.logo div{
+    width: 50px;
+    height: 50px;
+   
+}
+
+
+.firstLogo{
+   font-size: 50px;
+   padding: 0 0 0 10px;
+   color: black;
+  
+}
+
+.secondLogo{
+    margin: 15px 0 0 5px;
+    color: rgb(223, 8, 8);
+    font-size: 30px;
+}
+
+.menu {
+    display: flex;
+    margin: 35px 30px 0 0 ;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding-left: 25px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+.menu li a:hover{
+    color: rgb(223, 8, 8);
+    
+}
+

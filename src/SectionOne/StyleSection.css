@@ -1,0 +1,46 @@
+.conteinerSection {
+        width: 100%;
+        display: flex;
+        height: 100%;
+        justify-content: center; 
+}
+
+.sectionOne {
+    width: 768px;
+    border: 1px solid black;
+    display: flex;    
+    flex-wrap: wrap;
+    padding-left: 80px;
+}
+
+.current {
+    margin: 20px;
+    border: 1px solid black;
+    width: 160px;
+    height: 250px;
+    text-align: center;
+}
+
+.assessment {
+    width: 100px;
+    color:rgb(223, 8, 8);
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 0 auto;
+  
+    
+}
+
+.img img{
+    width: 120px;
+    height: 150px;
+    margin: 10px 0 0 0;
+    border-radius: 5px;
+}
+
+.titulo {
+    margin: 10px 0 10px 0 ;
+    font-weight: bold;
+    font-size: 23px;
+}
+

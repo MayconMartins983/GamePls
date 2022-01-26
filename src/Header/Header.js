@@ -1,5 +1,6 @@
 import React from 'react';
-import './Header.css'
+import './Header.css';
+import {Link} from 'react-router-dom';
 
 const Header = () => {
     return (
@@ -7,10 +8,10 @@ const Header = () => {
             <div className='conteinerHeader'>
                 <header className='header'>
                     <div className='logo'>
-                        <a href='#'>
+                        <Link to = '/'>
                             <div><p className='firstLogo'>G</p></div>
                             <p className='secondLogo'>amePls</p>
-                        </a>
+                        </Link>
                     </div>
 
                     <nav>

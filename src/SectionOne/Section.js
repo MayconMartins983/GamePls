@@ -28,22 +28,27 @@ const Section = () => {
                 {<Current
                 title = {apiDados.title}
                 image = {apiDados.picture}
+                rating = {apiDados.rating}
                 />}
 
                 {<Current
                 title = {apiDados.title}
                 image = {apiDados.picture}
+                rating = {apiDados.rating}
                 />}
 
                  {<Current
                 title = {apiDados.title}
                 image = {apiDados.picture}
+                rating = {apiDados.rating}
                 />}
 
                   {<Current
                 title = {apiDados.title}
                 image = {apiDados.picture}
+                rating = {apiDados.rating}
                 />}
+
 
 
            

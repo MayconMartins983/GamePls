@@ -1,0 +1,21 @@
+.loading {
+    width: 768px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.imgs img{
+    height: 200px;
+    width: 200px;
+   position: absolute;
+   right: 450px;
+   top: 150px;
+  
+    
+   
+    
+}
+

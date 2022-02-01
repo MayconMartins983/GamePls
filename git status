@@ -1,0 +1,47 @@
+[33mcommit 81ac26ad07ab2dc820e6c6a3ecd1ce3c910b1c23[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Feb 1 00:20:33 2022 -0300
+
+    commit deploy
+
+[33mcommit 2976b750e89fe1b129cb3bef7ba01a1715adca88[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Feb 1 00:02:17 2022 -0300
+
+    Deploy na main
+
+[33mcommit d3a5f97f4e2ac875ef97c9bacab8229ffaf00c0a[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Wed Jan 26 23:48:46 2022 -0300
+
+    commit com description e requisição feita
+
+[33mcommit 7e52ec201dcfa00dcc5a888c0b3c9b6402d4222a[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Jan 25 22:50:39 2022 -0300
+
+    commit antes de implementar o consumo da api graphql
+
+[33mcommit a46d72b69fafcc98e9a43d2ea6517943b1019051[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Fri Jan 21 22:20:01 2022 -0300
+
+    segundo commit
+
+[33mcommit d50167c06deb289ac6a7bc7950ad20f797bc03bb[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Jan 18 21:50:51 2022 -0300
+
+    creation of branch develop
+
+[33mcommit 46cecb50ef31ffe68554d7e0547d0ad13fafb3f4[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Jan 18 21:47:33 2022 -0300
+
+    initial commit
+
+[33mcommit 9d282fb8eb6a1b43f34bb7815b16a82b22f78d4e[m
+Author: Maycon Martins <maycon.rocha2100@gmail.com>
+Date:   Tue Jan 18 21:20:41 2022 -0300
+
+    Initialize project using Create React App

@@ -51,6 +51,49 @@ return (
              rating = {dados[1].rating}/>
             }</Link>
 
+            <Link to = 'description3'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[2].title}
+             image = {dados[2].picture}
+             rating = {dados[2].rating}/>
+            }</Link>
+
+            <Link to = 'description4'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[3].title}
+             image = {dados[3].picture}
+             rating = {dados[3].rating}/>
+            }</Link>
+
+            <Link to = 'description5'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[4].title}
+             image = {dados[4].picture}
+             rating = {dados[4].rating}/>
+            }</Link>
+
+            <Link to = 'description6'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[5].title}
+             image = {dados[5].picture}
+             rating = {dados[5].rating}/>
+            }</Link>
+
+            <Link to = 'description7'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[6].title}
+             image = {dados[6].picture}
+             rating = {dados[6].rating}/>
+            }</Link>
+            <Link to = 'description8'  className='Link'>{dados && <Current
+              key={dados.id}
+              title = {dados[7].title}
+             image = {dados[7].picture}
+             rating = {dados[7].rating}/>
+            }</Link>
+
+
+
         </section>
     </div>
 )

@@ -1,12 +1,17 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './Header.css';
 import {Link} from 'react-router-dom';
+import {useEffect} from 'react';
 
 const Header = () => {
+    const header = document.querySelector('.header')
+    
+    const [ativado, setAtivado] = useState(false)
+
     return (
         <>
             <div className='conteinerHeader'>
-                <header className='header'>
+                <header className={`header ${ativado ? "active" : ""}`} >
                     <div className='logo'>
                         <Link to = '/'>
                             <div><p className='firstLogo'>G</p></div>
@@ -21,18 +26,17 @@ const Header = () => {
                             <li><a href='#'>Jogos-Free</a></li>          
                         </ul>
                     </nav>
+
+                    <div className='buttonNav' onClick={()=> setAtivado(!ativado)} >
+                        <div className='line'> </div>
+                        <div className='line'> </div>
+                        <div className='line'> </div>
+                    </div>
                 </header>
-
-
-
-
-
-
-
-
             </div>
         </>
     )
 }
 
 export default Header
+ 

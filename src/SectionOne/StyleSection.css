@@ -38,12 +38,13 @@
 
 .assessment {
     width: 160px;
-    color:rgb(223, 8, 8);
-    border: 1px solid black;
+    color:rgb(214, 54, 54);
+    border: 1.5px solid black;
     border-radius: 2px;
     margin: 0 auto;
     font-size: 20px;
     padding: 2px;
+    font-weight: bold;
   
     
 }

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './Header.css';
 import {Link} from 'react-router-dom';
 import {useEffect} from 'react';
+import logo from './logoimg.png'
 
 const Header = () => {
     const header = document.querySelector('.header')
@@ -14,8 +15,8 @@ const Header = () => {
                 <header className={`header ${ativado ? "active" : ""}`} >
                     <div className='logo'>
                         <Link to = '/' className='link'>
-                            <p className='firstLogo'>G</p>
-                            <div className='secondLogo'>amePls</div>
+                            
+                            <div className='secondLogo'><img src={logo}/></div>
                         </Link>
                     </div>
 

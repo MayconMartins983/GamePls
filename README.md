@@ -1,5 +1,6 @@
 <h1 align="center"> Projeto pessoal de games de consumo de Api GraphQl com React.js </h1>
 <p>* Este projeto foi criado juntamente com um amigo que fez a parte de criação da api, não foi levado tanto em consideração o design e sim as funcionalidades!!! </p>
+<p>* Todos os dados apresentados, são advindos da API! </p>
 <h2> Principais conceitos aplicados... </h2>
 <ul>
   <li>Consumo de api GraphQl </li>

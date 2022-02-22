@@ -10,7 +10,6 @@
   <li>Manipulação de estados </li>
 </ul>
 
-<p> Link do site onde foi feito o Deploy: <a href='https://game-plss.vercel.app/'>   https://game-plss.vercel.app. </a> </p>
 <p> Link da Api GraphQl: <a href='https://gamespls-api.herokuapp.com/'>   https://gamespls-api.herokuapp.com/ </a> </p>
 
 
